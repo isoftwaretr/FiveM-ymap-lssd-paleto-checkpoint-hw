@@ -24,9 +24,9 @@ For any questions or further permissions, please contact us at:
 
 **iSoftware®**
 - Website: https://isoftware.com.tr
-- Instagram: https://instagram.com/isoftwarecomtr
+- Instagram: https://instagram.com/isoftware
 - Facebook: https://facebook.com/isoftware
-- LinkedIn: https://linkedin.com/company/isoftwarecomtr
+- LinkedIn: https://linkedin.com/company/isoftwaretr
 
 ## Credits
 Created by iSoftware® DevOPS Team
